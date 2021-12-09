@@ -1,0 +1,8 @@
+area:
+write("enter the length number:"),
+read(L),nl
+write("enter the breadth number:"),
+read(B),nl,
+A is L*B
+Write("the area of rectangle is:")
+write(A),nl,
